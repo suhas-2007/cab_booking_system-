@@ -14,7 +14,7 @@ The **Ride Booking System** is a comprehensive C++ application designed to demon
 |------|---------------|------------------|-------------------------------------------------|
 | 1    | Suhas   | Project Lead     | Core design, main app logic, driver allocation  |
 | 2    | Madhav | UI/UX Developer | Interface prompts, input flow                   |
-| 3    | Spurjun| OOP Specialist  | Class design, inheritance, templates            |
+| 3    | Spurjan| OOP Specialist  | Class design, inheritance, templates            |
 | 4    | Venu | Backend Dev     | Data structures, booking containers             |
 | 5    | Rithwik | Testing Lead    | Code testing, sample flows                      |
 
